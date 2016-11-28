@@ -1,0 +1,19 @@
+{
+  "name": "generator-story",
+  "version": "1.0.0",
+  "description": "Generator to create boilerplate for storybook stories",
+  "files": [
+    "app"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "scripts": {
+    "test": "mocha tests.js"
+  },
+  "author": "thomas",
+  "devDependencies": {
+    "mocha": "^3.2.0",
+    "yeoman-test": "^1.5.1"
+  }
+}
